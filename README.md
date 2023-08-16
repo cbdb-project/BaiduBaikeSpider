@@ -1,7 +1,7 @@
 # BaiduBaikeSpider
 
 ## Description
-The program was developed based on based on [Baike_spider](https://github.com/JinJackson/Baike_spider)https://github.com/JinJackson/Baike_spider
+The program was developed based on [Baike_spider](https://github.com/JinJackson/Baike_spider)https://github.com/JinJackson/Baike_spider
 Supports retrieving multiple synonyms for the same entry.
 
 ## Usage
