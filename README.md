@@ -11,4 +11,5 @@ Added new features:
 
 ## Usage
 Place the keywords you want to crawl into the 'keyword.txt' file, one word per line, and then run baike.py.
-Save the cookies munually to the 'cookies.txt' file before crawling.
+
+Input the cookies munually to the 'cookies.txt' file before crawling.
